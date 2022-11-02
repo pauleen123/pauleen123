@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pauleen 
 - 👀 I’m interested in developing my skills and confidence in CODE!.
-- 🌱 I’m currently learning more about fullstack development.
+- 🌱 I’m currently learning ruby.
 - 📫 You can reach me through email on paugitonga6@gmail.com.
 - WHOEVER IS TRYING TO BRING YOU DOWN IS ALREADY BELOW YOU.FACTS!
 
