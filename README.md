@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pauline.
-- 👀 I am a full-stack software developer
-- 👀 I’m interested in developing my skills and confidence in all things programming!
+- 👀 I am a full-stack software developer and cloud enthusiast!
+- 👀 I’m interested in developing my skills and confidence in programming and the cloud.
 - 📫 You can reach me through email at paugitonga6@gmail.com or my LinkedIn profile at https://www.linkedin.com/in/pauline-gitonga-a9a0a1136/.
 
 <!---
